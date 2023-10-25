@@ -1,6 +1,6 @@
 {
     "song1" : {
-       "name" : "Sweden",
+       "song" : "Sweden",
        "artist" : "C418",
        "genre" : "Ambient",
        "link": "https://youtu.be/_3ngiSxVCBs",
@@ -8,15 +8,15 @@
     },
     
     "song2" : {
-       "name" : "Payphone",
-       "artist" : "Maroon 5 ft. Wiz Khalifa",
-       "genre" : "Pop and R&B",
-       "link": "https://youtu.be/smKgVuSB18k",
+       "song" : "Comedy",
+       "artist" : "Gen Hoshino",
+       "genre" : "J-Pop",
+       "link": "https://youtu.be/URR_Nv-6MZs",
        "id": 2
     },
     
     "song3" : {
-       "name" : "Stereo Hearts",
+       "song" : "Stereo Hearts",
        "artist" : "Gym Class Heroes ft. Adam Levine",
        "genre" : "Pop",
        "link": "https://youtu.be/5X7g0B3AoC0",
@@ -25,18 +25,18 @@
     },
 
     "song4" : {
-      "name" : "Demons",
+      "song" : "Demons",
       "artist" : "Imagine Dragon",
       "genre" : "Alternative Rock",
       "link": "https://youtu.be/y4FiCl-tUJc",
       "id": 4
    },
-   
+
    "song5" : {
-      "name" : "Fireflies",
-      "artist" : "Owl City",
-      "genre" : "Pop",
-      "link": "https://youtu.be/KWLGyeg74es",
+      "song" : "Souvenir",
+      "artist" : "BUMP OF CHICKEN",
+      "genre" : "J-Pop",
+      "link": "https://youtu.be/4DBnfKPbixs",
       "id": 5
    }
  }
